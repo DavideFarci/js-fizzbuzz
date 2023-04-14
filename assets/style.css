@@ -2,6 +2,11 @@ body {
     background-color: grey;
 }
 
+span {
+    display: inline-block;
+    margin-right: -11px;
+  }
+
 .col-1 {
     background-color: lightgrey;
     margin-inline: .25rem;
