@@ -4,5 +4,6 @@ body {
 
 .content {
     background-color: lightgrey;
-    /* height: 100px; */
+    height: 4rem;
+    width: 4rem;
 }
