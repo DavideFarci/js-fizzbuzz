@@ -2,8 +2,9 @@ body {
     background-color: grey;
 }
 
-.content {
+.col-1 {
     background-color: lightgrey;
+    margin-inline: .25rem;
     height: 4rem;
     width: 4rem;
 }
